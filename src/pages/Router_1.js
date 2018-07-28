@@ -38,7 +38,8 @@ const Home = ()=> {
 	return (<div>Home</div>)
 }
 
-const About = ()=>{ 
+const About = (props)=>{ 
+
 	return (<div>About</div>);
 }
 
